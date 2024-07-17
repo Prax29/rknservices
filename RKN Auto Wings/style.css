@@ -1,0 +1,37 @@
+
+html{
+    background-color: #FFF8F3;
+}
+hr{
+    color: #758694;
+}
+h2{
+    color: #2e4454;
+    font-size: 35px;
+}
+
+#desc{
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: 700;
+}
+h1{
+    text-align: center;
+    color: #405D72;
+    font-size: 50px;
+}
+#projects{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
+#foot{
+    font-size: 20px;
+    text-align: center;
+}
+#footer{
+    font-size: 1rem;
+    text-align: center;
+}
