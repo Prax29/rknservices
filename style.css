@@ -40,3 +40,8 @@ p{
     height: 200px;
     width: 450px;
 }
+.services{
+    position: relative;
+    top: 50%;
+    left: 15%;
+}
